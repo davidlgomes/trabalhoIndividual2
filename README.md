@@ -52,7 +52,7 @@ Vamos responder a cada pergunta com base no modelo que criamos:
 
 
 ## 3. Como essas tabelas estão relacionadas
-  ### Relacionamentos: **
+  ### Relacionamentos:
 
 ![modelagem](https://github.com/davidlgomes/trabalhoIndividual2/assets/47571290/ae85784a-7fe3-43b4-9437-041418c3cf3e)
 

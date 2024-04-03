@@ -57,7 +57,7 @@ Vamos responder a cada pergunta com base no modelo que criamos:
 ![modelagem](https://github.com/davidlgomes/trabalhoIndividual2/assets/47571290/ae85784a-7fe3-43b4-9437-041418c3cf3e)
 
 ## 4. Simulação de 2 registros para cada entidade
-
+![Output scriptModulo2](https://github.com/davidlgomes/trabalhoIndividual2/assets/47571290/ddf61b8e-4dd8-4d77-8cf2-c84fd695e850)
 
 ## 5. Slides atividade:
 ![image](https://github.com/davidlgomes/trabalhoIndividual2/assets/47571290/cc97fc18-cb3c-436e-b01a-82e8b69f118a)

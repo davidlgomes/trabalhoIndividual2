@@ -1,5 +1,6 @@
 -- Criação do banco de dados
-CREATE DATABASE IF NOT EXISTS dbEmpresasParceiras;
+DROP DATABASE IF EXISTS dbEmpresasParceiras;
+CREATE DATABASE dbEmpresasParceiras;
 USE dbEmpresasParceiras;
 
 -- Criação da tabela EmpresaParceira

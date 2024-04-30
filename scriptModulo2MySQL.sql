@@ -20,7 +20,8 @@ VALUES
 
 -- Criação da tabela Departamento
 CREATE TABLE Departamento (
-    id INT AUTO_INCREMENT PRIMARY KEY
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(500)
 );
 
 -- Inserção de registros na tabela Departamento
